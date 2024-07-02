@@ -1,0 +1,284 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfitLoss renders correctly 1`] = `
+<View
+  style={
+    {
+      "backgroundColor": "white",
+      "bottom": 0,
+      "paddingHorizontal": 20,
+      "paddingTop": 10,
+      "position": "absolute",
+      "width": "100%",
+    }
+  }
+>
+  <View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        jestAnimatedStyle={
+          {
+            "value": {
+              "alignSelf": "center",
+              "transform": [
+                {
+                  "rotate": "0deg",
+                },
+              ],
+            },
+          }
+        }
+        style={
+          {
+            "alignSelf": "center",
+            "transform": [
+              {
+                "rotate": "0deg",
+              },
+            ],
+          }
+        }
+      >
+        <View
+          style={
+            [
+              {
+                "backgroundColor": "transparent",
+                "borderBottomColor": "purple",
+                "borderBottomWidth": 20,
+                "borderLeftColor": "transparent",
+                "borderLeftWidth": 10,
+                "borderRightColor": "transparent",
+                "borderRightWidth": 10,
+                "borderStyle": "solid",
+                "height": 0,
+                "width": 0,
+              },
+              undefined,
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      collapsable={false}
+      jestAnimatedStyle={
+        {
+          "value": {
+            "height": 0,
+            "opacity": 0,
+          },
+        }
+      }
+      style={
+        {
+          "height": 0,
+          "opacity": 0,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        forwardedRef={[Function]}
+        jestAnimatedStyle={
+          {
+            "value": {},
+          }
+        }
+        style={
+          {
+            "position": "absolute",
+            "top": 0,
+            "width": "100%",
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "padding": 20,
+                  "width": "100%",
+                },
+                {
+                  "paddingBottom": 2,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Current Value
+            </Text>
+            <Text
+              style={
+                {
+                  "fontWeight": "600",
+                }
+              }
+            >
+              ₹ 2000.00
+            </Text>
+          </View>
+          <View
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "padding": 20,
+                  "width": "100%",
+                },
+                {
+                  "paddingBottom": 2,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Total Investment
+            </Text>
+            <Text
+              style={
+                {
+                  "fontWeight": "600",
+                }
+              }
+            >
+              ₹ 1500.00
+            </Text>
+          </View>
+          <View
+            style={
+              [
+                {
+                  "flexDirection": "row",
+                  "justifyContent": "space-between",
+                  "padding": 20,
+                  "width": "100%",
+                },
+                {
+                  "paddingBottom": 2,
+                },
+              ]
+            }
+          >
+            <Text
+              style={
+                {
+                  "fontSize": 16,
+                  "fontWeight": "bold",
+                }
+              }
+            >
+              Today's profit & Loss
+            </Text>
+            <Text
+              style={
+                {
+                  "fontWeight": "600",
+                }
+              }
+            >
+              ₹ 500.00
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      {
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "marginTop": 20,
+      }
+    }
+  >
+    <View
+      style={
+        [
+          {
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "padding": 20,
+            "width": "100%",
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        style={
+          {
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Profit & Loss
+      </Text>
+      <Text
+        style={
+          {
+            "fontWeight": "600",
+          }
+        }
+      >
+        ₹ 1000.00
+      </Text>
+    </View>
+  </View>
+</View>
+`;

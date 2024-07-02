@@ -1,0 +1,3 @@
+interface IHomeHeader {
+  title: string;
+}
